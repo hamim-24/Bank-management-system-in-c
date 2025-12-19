@@ -1,5 +1,7 @@
 # Banking Management System
 
+**[YouTube Video](https://www.youtube.com/watch?v=UjnEz5AukyA)**
+
 A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls.
 
 ## Features
